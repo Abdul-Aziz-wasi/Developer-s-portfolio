@@ -192,3 +192,9 @@ footer input[type="text"], footer input[type="email"]{
 .submit{
   margin-top: 10px;
 }
+
+.contact{
+  background-color: #f8e4da;
+  color: #FD6E0A;
+  border: 2px solid #FD6E0A;
+}
