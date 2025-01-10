@@ -188,3 +188,7 @@ footer input[type="text"], footer input[type="email"]{
   margin-bottom: 20px;
   border: none;
 }
+
+.submit{
+  margin-top: 10px;
+}
